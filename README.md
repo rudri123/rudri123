@@ -56,28 +56,6 @@
 - Google Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
 
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Snowflake
-- AI Agents
-- Data Engineering
-- Salesforce CRM
-
----
-
-## 🚀 Career Interests
-
-- Data Analyst
-- Business Analyst
-- Business Intelligence Analyst
-- Product Analyst
-- AI/Data Analyst
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: **trudri60@gmail.com**
